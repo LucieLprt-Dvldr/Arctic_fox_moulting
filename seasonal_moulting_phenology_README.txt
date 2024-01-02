@@ -6,6 +6,10 @@ Lucie Laporte-Devylder, Kristine R. Ulvund, Lars Rød-Eriksen, Ola Olsson, Øyst
 
 Contact: lucie.lprt@gmail.com
 
+Reference to published study: 
+Laporte-Devylder, L., Ulvund, K.R., Rød-Eriksen, L., Olsson, O., Flagstad, Ø., Landa, A., Eide, N.E. and Jackson, C.R. (2023), A camera trap-based assessment of climate-driven phenotypic plasticity of seasonal moulting in an endangered carnivore. Remote Sens Ecol Conserv, 9: 210-221. https://doi.org/10.1002/rse2.304
+
+
 The dataset "seasonal moulting phenology.csv" is the characterization of the spring moulting phenology of the observed arctic foxes in Snøhetta, between the years 2011 and 2018, and in relation to seasonal values of temperature, two snow parameters and rodent density index.
 This dataset was used in a linear mixed model (LMM) to investigate the phenotypic plasticity of arctic foxes in response to environmental conditions, and was built based on pictures extracted from motion-triggered camera traps installed on supplementary feeders nearby den sites and release sites, 
 as part of the Norwegian Institute for Nature Reserach's (NINA) Arctic Fox Captive Breeding and Release Programme.
