@@ -6,12 +6,15 @@ Lucie Laporte-Devylder, Kristine R. Ulvund, Lars Rød-Eriksen, Ola Olsson, Øyst
 
 Contact: lucie.lprt@gmail.com
 
+Reference to published study: 
+Laporte-Devylder, L., Ulvund, K.R., Rød-Eriksen, L., Olsson, O., Flagstad, Ø., Landa, A., Eide, N.E. and Jackson, C.R. (2023), A camera trap-based assessment of climate-driven phenotypic plasticity of seasonal moulting in an endangered carnivore. Remote Sens Ecol Conserv, 9: 210-221. https://doi.org/10.1002/rse2.304
+
 The dataset "morph phenology.csv" characterizes the differences of spring moulting phenology between white morph and blue morph arctic foxes, for moult initiation (95%), mid-point (50%), and moult completion (0%).
 The data was collected for arctic foxes in Snøhetta, between the years 2011 and 2018. Seasonal values of temperature, snow parameters and rodent density index are also given.
 This dataset was used to investigate the morph-based differences in moulting timing and rate for arctic foxes, in response to environmental conditions. 
-The dataset was built based on pictures extracted from motion-triggered camera traps installed on supplementary feeders nearby den sites and release sites, as part of the Norwegian Institute for Nature Reserach's (NINA) Arctic Fox Captive Breeding and Release Programme.
+The dataset was built based on pictures extracted from motion-triggered camera traps installed on supplementary feeders nearby den sites and release sites, as part of the Norwegian Institute for Nature Research's (NINA) Arctic Fox Captive Breeding and Release Programme.
 
-Each row represents a single arctic fox, with its corresping moulting dates for the different moulting stages observed. 
+Each row represents a single arctic fox, with its corresponding moulting dates for the different moulting stages observed. 
 
 Columns explanation:
 year = year of observation
